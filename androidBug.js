@@ -1,0 +1,1 @@
+This error typically occurs when there's a mismatch between the Android SDK version specified in your Expo project and the version actually installed on your system.  It might also happen due to issues with the Android build tools or the Gradle version. The error message often doesn't pinpoint the exact cause, making it tricky to debug.
